@@ -9,7 +9,7 @@
 public OnFilterScriptInit()
 {
 	print("\n--------------------------------------");
-	print("        Anti Proxy by Delet User         ");
+	print("        Anti Proxy by Ackylle           ");
 	print("--------------------------------------\n");
 	return 1;
 }
